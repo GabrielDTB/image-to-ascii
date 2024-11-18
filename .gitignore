@@ -2,3 +2,5 @@
 /data
 /.vscode
 /out
+/.direnv
+.envrc
